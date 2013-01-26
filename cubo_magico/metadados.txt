@@ -1,0 +1,21 @@
+Arquivo para corte em adesivo de vinil:
+ cubo_magico.svg
+
+Cores (6):
+ Preto
+ Vermelho
+ Verde
+ Branco
+ Amarelo
+ Azul
+
+Licença:
+ GNU Free Documentation License 1.2+
+ou
+ Creative Commons BY-SA 3.0 Unported. 	
+
+Arquivo original:
+ http://upload.wikimedia.org/wikipedia/commons/a/ae/Rubik%27s_cube_scrambled.svg
+
+Autor do arquivo original:
+ Chris Buckley (http://en.wikipedia.org/wiki/User:Cbuckley)
